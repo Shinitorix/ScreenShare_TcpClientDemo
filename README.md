@@ -1,8 +1,5 @@
-How to make it start:
+Note: Classes folder must be put inside Shared project.
 
-1. Create a wpf project (server) and add ServerWindow window.
-2. Create a wpf project (client) and add MainWindow, SeeScreenWindow and ShareScreenWindow.
-3. Add utility classes as reference in both projects.
 
 To run:
 
